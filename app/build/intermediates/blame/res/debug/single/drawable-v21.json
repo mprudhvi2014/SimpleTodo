@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/prudhvimandapati/Desktop/SimpleTodo/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/prudhvimandapati/.android/build-cache/b7c6fb23140534a3578f20ea9351a7ce7e8ff1fe/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/prudhvimandapati/Desktop/SimpleTodo/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/prudhvimandapati/.android/build-cache/b7c6fb23140534a3578f20ea9351a7ce7e8ff1fe/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/prudhvimandapati/Desktop/SimpleTodo/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/prudhvimandapati/.android/build-cache/b7c6fb23140534a3578f20ea9351a7ce7e8ff1fe/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/prudhvimandapati/Desktop/SimpleTodo/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/prudhvimandapati/.android/build-cache/b7c6fb23140534a3578f20ea9351a7ce7e8ff1fe/output/res/drawable-v21/abc_edit_text_material.xml"
+    }
+]

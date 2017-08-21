@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/prudhvimandapati/Desktop/SimpleTodo/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/prudhvimandapati/.android/build-cache/b7c6fb23140534a3578f20ea9351a7ce7e8ff1fe/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/prudhvimandapati/Desktop/SimpleTodo/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/prudhvimandapati/.android/build-cache/b7c6fb23140534a3578f20ea9351a7ce7e8ff1fe/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/prudhvimandapati/Desktop/SimpleTodo/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/prudhvimandapati/.android/build-cache/b7c6fb23140534a3578f20ea9351a7ce7e8ff1fe/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/prudhvimandapati/Desktop/SimpleTodo/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/prudhvimandapati/.android/build-cache/b7c6fb23140534a3578f20ea9351a7ce7e8ff1fe/output/res/layout-v21/notification_template_custom_big.xml"
+    }
+]

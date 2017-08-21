@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/prudhvimandapati/Desktop/SimpleTodo/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-h720dp-v13/values-h720dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 66,
+                    "endOffset": 117
+                },
+                "from": {
+                    "file": "/Users/prudhvimandapati/.android/build-cache/b7c6fb23140534a3578f20ea9351a7ce7e8ff1fe/output/res/values-h720dp-v13/values-h720dp-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 66,
+                        "endOffset": 117
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,7 @@
+#Mon Aug 21 12:35:16 PDT 2017
+base.0=/Users/prudhvimandapati/Desktop/SimpleTodo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_bca913dfa68dee507ca1646de9465e5fc26456c9
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/prudhvimandapati/Desktop/SimpleTodo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c524f5e2f6520245cbd374d19bf33c85422908d7/classes.dex
+base.1=/Users/prudhvimandapati/Desktop/SimpleTodo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c524f5e2f6520245cbd374d19bf33c85422908d7
+file.0=/Users/prudhvimandapati/Desktop/SimpleTodo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_bca913dfa68dee507ca1646de9465e5fc26456c9/classes.dex

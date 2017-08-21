@@ -1,0 +1,33 @@
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    >
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:textStyle="bold"
+        android:text="Edit Item below"/>
+
+    <EditText
+        android:id="@+id/edtHere"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+
+        />
+<Button
+    android:id="@+id/btnSave"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="Save"
+    android:layout_marginLeft="10dp"/>
+
+
+</LinearLayout>
